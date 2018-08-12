@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  width:80%;
+  margin: 0 10%;
+}
+
+.header h1{
+  text-align: center;
+  font:Verdana;
+}
+
+li{
+  list-style-type: none;
+}
